@@ -1,0 +1,14 @@
+.body{
+   background-color:rgb(223, 219, 219);
+}
+
+#div_boton{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+#div_boton:hover{
+    transform: scale(0.9);
+    transition: all 0.7s;
+}
